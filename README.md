@@ -1,4 +1,4 @@
-# Spotify Songs & Artists Analysis, Prediction, and Recommender System
+# Spotify Songs Recommender System
 
 This project analyzes Spotify song features and develops a recommendation system based on song characteristics.
 
